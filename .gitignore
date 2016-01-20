@@ -10,3 +10,8 @@ nbproject
 cache.properties
 build
 vendor/
+convert_html/
+preview/
+published/
+# Icon must end with two \r
+Icon
